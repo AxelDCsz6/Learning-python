@@ -60,6 +60,7 @@ if "world" in txt:
 print(txt[2:5]) #print the characters from the positions 2 to 5
 print(txt[:5]) #print the characters from the beggining to the position 5
 print(txt[2:]) #print the character from the position 2 to the end
+print(txt[-2:]) #print the last two characters
 
 age = 20
 txt2 = f"My name is Axel, I am {age}"

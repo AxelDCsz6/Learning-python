@@ -5,6 +5,6 @@ if len(sys.argv) == 1:
 else:
     print(f"argumentos: {sys.argv}")
 
-print("segundo print con ciclo for:")
+print("Recorrido por todos los valores del arreglo")
 for x in sys.argv:
     print(x)
